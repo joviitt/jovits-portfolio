@@ -528,6 +528,13 @@
     z-index: 100;
   }
 
+  .card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+  }
+
   .cardflex {
     display: flex;
     flex-wrap: wrap;
